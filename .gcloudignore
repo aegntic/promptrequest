@@ -1,0 +1,16 @@
+node_modules
+.git
+.gitignore
+README.md
+.nyc_output
+coverage
+.cache
+dist
+.DS_Store
+*.log
+frontend/ideagen_website_elite
+
+# Explicitly include public files
+!public/
+!public/index.html
+!public/assets/*

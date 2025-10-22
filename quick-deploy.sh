@@ -7,7 +7,7 @@ echo "🚀 Quick Deploy promptre.quest to Google Cloud"
 echo "==============================================="
 
 # Configuration
-PROJECT_ID=${1:-"promptre-quest-hackathon"}
+PROJECT_ID=${1:-"promptrequest"}
 REGION=${2:-"us-central1"}
 SERVICE_NAME="promptre-quest-app"
 
