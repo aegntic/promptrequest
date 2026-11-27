@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cover-16x9.jpg" alt="promptrequest — AI-Powered Business Idea Pipeline with Google Vertex AI - Hackathon Project" width="100%" />
+</p>
+
 # promptre.quest - AI-Powered Business Idea Quest
 
 **Now powered by Google Vertex AI with Gemini 2.5 Pro & Flash models!**
